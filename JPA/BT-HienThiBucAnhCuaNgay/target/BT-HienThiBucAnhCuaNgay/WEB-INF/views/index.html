@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>Image of Date</h2>
+<img id="img-of-the-day" alt="" src="">
+<form method="post" th:action="@{/}" th:object="${comment}">
+    <select name="rating">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select> <br>
+    <label>Author</label>
+    <input type="text" name="author" th:field="*{author}"/> <br>
+    <label>FeedBack</label>
+    <textarea name="feedback" th:field="*{feedback}"></textarea>
+    <button type="submit">Comment</button>
+</form>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
+
+<hr>
+<h6>+5 So awesome</h6>
+<th:block th:each="c:${comments}">
+    <div th:if="${c.rating==5}">
+        <p th:text="'Author: '+${c.author}"> </p>
+        <p th:text="'Feedback: '+${c.feedback}"></p>
+        <p th:text="${c.likes}"></p>
+        <a th:href="@{/like/__${c.id}__}">Like</a>
+    </div>
+</th:block>
+<hr>
+<h6>+4 Great</h6>
+<th:block th:each="c:${comments}">
+    <div th:if="${c.rating==4}">
+        <p th:text="'Author: '+${c.author}"> </p>
+        <p th:text="'Feedback: '+${c.feedback}"></p>
+        <p th:text="${c.likes}"></p>
+        <a th:href="@{/like/__${c.id}__}">Like</a>
+    </div>
+</th:block>
+<hr>
+<h6>+3 Normal</h6>
+<th:block th:each="c:${comments}">
+    <div th:if="${c.rating==3}">
+        <p th:text="'Author: '+${c.author}"> </p>
+        <p th:text="'Feedback: '+${c.feedback}"></p>
+        <p th:text="${c.likes}"></p>
+        <a th:href="@{/like/__${c.id}__}">Like</a>
+    </div>
+</th:block>
+<hr>
+<h6>+2 Bad</h6>
+<th:block th:each="c:${comments}">
+    <div th:if="${c.rating==2}">
+        <p th:text="'Author: '+${c.author}"> </p>
+        <p th:text="'Feedback: '+${c.feedback}"></p>
+        <p th:text="${c.likes}"></p>
+        <a th:href="@{/like/__${c.id}__}">Like</a>
+    </div>
+</th:block>
+<hr>
+<h6>+1 Very Bad</h6>
+<th:block th:each="c:${comments}">
+    <div th:if="${c.rating==1}">
+        <p th:text="'Author: '+${c.author}"> </p>
+        <p th:text="'Feedback: '+${c.feedback}"></p>
+        <p th:text="${c.likes}"></p>
+        <a th:href="@{/like/__${c.id}__}">Like</a>
+    </div>
+</th:block>
+<hr>
+
+<script>
+    let query = 'https://api.nasa.gov/planetary/apod?api_key=5gSi3acf8I8KaajQhqBRFYMOos0p20Fevu7YeRgR';
+    let request = new XMLHttpRequest();
+    request.open('GET', query);
+    request.onload = function () {
+        if (request.status === 200) {
+            let response = JSON.parse(request.responseText);
+            document.getElementById('img-of-the-day').setAttribute('src', response.url);
+        }
+    };
+    request.send();
+</script>
+</body>
+</html>
