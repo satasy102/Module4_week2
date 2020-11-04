@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TH-ValidatingFormInput:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a3cb014-eb7d-46b8-8b34-4056754b2055" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/BT-ValidateFormDangKy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/java/com/codegym/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/java/com/codegym/config/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/java/com/codegym/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/java/com/codegym/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/webapp/WEB-INF/views/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/classes/com/codegym/config/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/classes/com/codegym/config/ApplicationInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/classes/com/codegym/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/classes/com/codegym/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/classes/com/codegym/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/classes/com/codegym/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/classes/com/codegym/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/aspectjrt-1.9.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/byte-buddy-1.10.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/hibernate-core-5.4.10.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/hibernate-entitymanager-5.4.10.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/hibernate-validator-6.1.6.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/ognl-3.1.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/protobuf-java-3.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/slf4j-api-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-data-commons-2.3.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-data-jpa-2.3.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-jdbc-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-orm-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-tx-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/thymeleaf-spring5-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/views/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/BT-ValidateFormDangKy/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/classes/com/codegym/config/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/classes/com/codegym/config/ApplicationInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/classes/com/codegym/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/classes/com/codegym/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/classes/com/codegym/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/classes/com/codegym/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-ValidateFormDangKy/target/classes/com/codegym/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/TH-CustomValidation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/java/com/codegym/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/java/com/codegym/config/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/java/com/codegym/model/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomValidation/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH-ValidatingFormInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/config/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\HocLapTrinh\IDEA IntelliJ\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jny0SbXt0H0ixVmRSDhkPHW7yz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpringDataRepository/TH-UngDungQuanLyKhachHang-TinhThanh" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HocLapTrinh\Module_4\Week_2\Validation\TH-ValidatingFormInput\src\main\webapp\WEB-INF\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="TH-ValidatingFormInput:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_TH-ValidatingFormInput" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64183" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TH-ValidatingFormInput:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a3cb014-eb7d-46b8-8b34-4056754b2055" name="Default Changelist" comment="" />
+      <created>1604453932365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604453932365</updated>
+      <workItem from="1604453934611" duration="1064000" />
+      <workItem from="1604472538332" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="0" width="1094" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604454676158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="0" width="1094" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604454676158" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1604472547162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604472547162" />
+    <state width="904" height="178" key="GridCell.Tab.0.bottom" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.0.center" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.0.left" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.0.right" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.1.bottom" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.1.center" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.1.left" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.1.right" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.2.bottom" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.2.center" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.2.left" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state width="904" height="178" key="GridCell.Tab.2.right" timestamp="1604455003394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1604455003394" />
+    <state x="273" y="24" key="new project wizard" timestamp="1604454951189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604454951189" />
+  </component>
+</project>
